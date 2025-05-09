@@ -19,6 +19,14 @@ Me chamo Debora de Oliveira Loures, tenho 31 anos e sou apaixonada por tecnologi
             src="https://custom-icon-badges.demolab.com/github/followers/lourestec?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/debora-loures-b00563120">
+        <img 
+            alt="Meu LinkedIn" 
+            title="Visite meu perfil no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    
 </p>
 
 <!--
