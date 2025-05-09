@@ -1,5 +1,8 @@
-## Hi there 👋
+# 👩🏻‍💻 Debora Loures
 
+**`Estudante de Programação`**
+
+Me chamo Debora de Oliveira Loures, tenho 31 anos e sou apaixonada por tecnologia. Sou formada em Engenharia Mecatrônica pela UFSJ e atualmente estou cursando Sistemas de Informação no Centro Universitário UNIFAVENI. 
 <!--
 **lourestec/lourestec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
